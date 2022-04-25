@@ -26,4 +26,4 @@
   
 </div>
   
-    ![Snake animation](https://github.com/neylakarineoliveira/neylakarineoliveira/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/neylakarineoliveira/neylakarineoliveira/blob/main/.github/workflows/main.yml)
